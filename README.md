@@ -2,4 +2,4 @@
 
 Revolution implementation HTML, CSS, JavaScript after coding mum
 
-https://praktikum.belajarunidagontor.com/nasheh/profile
+https://praktikum.belajarunidagontor.com/nasheh/
