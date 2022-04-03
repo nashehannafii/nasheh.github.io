@@ -6,7 +6,7 @@ layout: default
 ---
 
 <header class="header">
-<h1 class="header-title">Ibrahim Al Anshor</h1>
+<h1 class="header-title">Nasheh Annafii</h1>
 <p class="header-subtitle">Programmer</p>
 </header>
 <ul class="nav">

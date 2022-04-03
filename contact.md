@@ -4,4 +4,4 @@ title: Contact
 permalink: /contact/
 ---
 
-* Email : ibrahimalanshor6@gmail.com
+* Email : nashehannafii@gmail.com

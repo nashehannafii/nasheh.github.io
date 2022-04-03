@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Saya Ibrahim Al Anshor, pemrogram dan pengembang situs web.
+Saya Nasheh Annafii, pemrogram dan pengembang situs web.
