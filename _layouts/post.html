@@ -1,0 +1,35 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: default
+---
+
+<main class="article-wrapper">
+    <header>
+      <time class="article-time">{{ page.date | date: "%d %B %Y" }}</time>
+      <h1 class="article-title">{{ page.title }}</h1>
+      <hr class="hr">
+    </header>
+    <article class="prose prose-ibra">{{ content }}</article>
+  </main>
+  <hr class="hr">
+  <nav class="article-nav">
+      {% if page.previous %}
+        <a class="article-nav-link link" href="{{ page.previous.url }}">
+            <svg xmlns="http://www.w3.org/2000/svg" class="article-nav-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M11 19l-7-7 7-7m8 14l-7-7 7-7" />
+                </svg>
+                <span>{{ page.previous.title  }}</span>
+            </a>
+        {% endif %}
+    {% if page.next %}
+        <a class="article-nav-link article-nav-link-right link" href="{{ page.next.url }}">
+            <span>{{ page.next.title }}</span>
+            <svg xmlns="http://www.w3.org/2000/svg" class="article-nav-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 5l7 7-7 7M5 5l7 7-7 7" />
+            </svg>
+        </a>
+    {% endif %}
+</nav>
+<hr class="hr">
