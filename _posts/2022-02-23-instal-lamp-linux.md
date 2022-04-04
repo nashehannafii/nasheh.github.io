@@ -4,7 +4,7 @@ title: 'Instal LAMP Linux'
 date: 2022-02-23 16:00:00 +0700
 ---
 
-Saya menggunakan linux mint.
+Saya menggunakan ubuntu linux.
 
 ## 1. Update Repo
 

@@ -4,7 +4,7 @@ title: 'Instal Node JS Linux'
 date: 2022-02-25 13:40:00 +0700
 ---
 
-Saya menggunakan elementary os.
+Saya menggunakan ubuntu linux.
 
 ## 1. Instal Versi LTS
 
