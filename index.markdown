@@ -7,7 +7,7 @@ layout: default
 
 <header class="header">
 <h1 class="header-title">Nasheh Annafii</h1>
-<p class="header-subtitle">Programmer</p>
+<p class="header-subtitle">I'am Programmer</p>
 </header>
 <ul class="nav">
 <li class="px-2"><a class="link" href="/about">About</a></li>
