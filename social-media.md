@@ -4,5 +4,4 @@ title: Social Media
 permalink: /social-media/
 ---
 
-* Instagram : [nashehannafii0225] (https://www.instagram.com/nashehannafii0225/)
-* Instagram : [nashehannafii0225] (https://www.instagram.com/nashehannafii0225/)
+* Instagram : <a class="link" href="https://www.instagram.com/nashehannafii0225/" target="_blank">nashehannafii0225</a>
