@@ -24,6 +24,5 @@ permalink: /skill/
 * Yii2(Medium)
 * Laravel(Basic)
 * Codeigniter3(Basic)
-
 * Dart(Basic)
 * Linux
