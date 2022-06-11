@@ -1,6 +1,6 @@
 ---
 title: "Simple CRUD Codeigniter3"
-type: "Static Site"
+type: "Codeigniter3"
 layout: "post"
 ---
 

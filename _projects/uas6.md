@@ -1,6 +1,6 @@
 ---
 title: "Sistem Penunjang Keputusan (SPK) Menggunakan Metode Multifactor Evaluation Process (MFEP)"
-type: "Static Site"
+type: "Yii2"
 layout: "post"
 ---
 
