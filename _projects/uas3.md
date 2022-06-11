@@ -1,5 +1,5 @@
 ---
-title: "Ideal Weight Calculate - App Project UAS Semester 3"
+title: "Ideal Weight Calculate (With GUI) - App Project UAS Semester 3"
 type: "Java"
 layout: "post"
 ---
