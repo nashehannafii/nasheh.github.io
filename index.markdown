@@ -18,7 +18,7 @@ layout: default
 <hr class="hr">
 <main>
 {% for post in site.posts %}
-    {% capture this_year %}
+    {% capture next_year %}
         {{ post.date | date: "%Y" }}
     {% endcapture %}
 
