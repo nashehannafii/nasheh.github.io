@@ -13,6 +13,7 @@ layout: default
 <li class="px-2"><a class="link" href="/about">About</a></li>
 <li class="px-2"><a class="link" href="/skill">Skill</a></li>
 <li class="px-2"><a class="link" href="/contact">Contact</a></li>
+<li class="px-2"><a class="link" href="/social-media">Social Media</a></li>
 </ul>
 <hr class="hr">
 <main>
