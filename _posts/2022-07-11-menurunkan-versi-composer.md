@@ -1,7 +1,7 @@
 ---
 layout: 'post'
-title: 'Cara Menurunkan Versi Node JS Linux'
-date: 2022-03-08 11:48:00 +0700
+title: 'Cara Menurunkan Versi Composer'
+date: 2022-07-11 08:56:00 +0700
 ---
 
 Saya menggunakan ubuntu linux.
