@@ -1,7 +1,7 @@
 ---
 title: "Ideal Weight Calculate - App Project UAS Semester 1"
 type: "C++"
-layout: "terminal"
+layout: "post"
 ---
 
 Yamin Admin Dashboard, built with tailwindcss

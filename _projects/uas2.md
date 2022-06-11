@@ -1,7 +1,7 @@
 ---
 title: "Ideal Weight Calculate - App Project UAS Semester 2"
 type: "Java"
-layout: "terminal"
+layout: "post"
 ---
 
 Yamin Admin Dashboard, built with tailwindcss
