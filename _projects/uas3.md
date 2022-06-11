@@ -1,6 +1,6 @@
 ---
 title: "Ideal Weight Calculate - App Project UAS Semester 3"
-type: "Java App with GUI"
+type: "Java"
 layout: "post"
 ---
 

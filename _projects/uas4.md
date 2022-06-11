@@ -1,6 +1,6 @@
 ---
-title: "Capel - Web Project UAS Semester 4"
-type: "Static Site"
+title: "Capel - Web Project UAS Semester 4 (CRUD)"
+type: "PHP Native"
 layout: "post"
 ---
 
