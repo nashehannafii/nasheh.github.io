@@ -4,7 +4,7 @@ type: "Java"
 layout: "post"
 ---
 
-Yamin Admin Dashboard, built with tailwindcss
+Ideal Weight Calculate (With GUI), built with Java-GUI on Netbeans
 
 Github Link : [https://github.com/nashehannafii/uas_semester3](https://github.com/nashehannafii/uas_semester3)
 

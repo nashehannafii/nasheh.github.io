@@ -4,7 +4,7 @@ type: "Yii2"
 layout: "post"
 ---
 
-Yamin Admin Dashboard, built with tailwindcss
+Sistem Penunjang Keputusan (SPK) Menggunakan Metode Multifactor Evaluation Process (MFEP), built with yii2framework
 
 Github Link : [https://github.com/nashehannafii/spk](https://github.com/nashehannafii/spk)
 

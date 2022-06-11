@@ -4,7 +4,7 @@ type: "C++"
 layout: "post"
 ---
 
-Yamin Admin Dashboard, built with tailwindcss
+Ideal Weight Calculate, built with C++ on DevC++
 
 Github Link : [https://github.com/nashehannafii/project_akhir_semester1](https://github.com/nashehannafii/project_akhir_semester1)
 

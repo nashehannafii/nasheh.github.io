@@ -4,7 +4,7 @@ type: "PHP Native"
 layout: "post"
 ---
 
-Yamin Admin Dashboard, built with tailwindcss
+Capel Web, built with PHP Native for sharing lessons file
 
 Github Link : [https://github.com/nashehannafii/uas-web-PHP-semester4](https://github.com/nashehannafii/uas-web-PHP-semester4)
 

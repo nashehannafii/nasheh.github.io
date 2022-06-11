@@ -4,7 +4,7 @@ type: "Codeigniter3"
 layout: "post"
 ---
 
-Yamin Admin Dashboard, built with tailwindcss
+Simple Create-Read-Update-Delete (CRUD) Codeigniter3, built with Codeigniter3
 
 Github Link : [https://github.com/nashehannafii/simple_crud_CI3](https://github.com/nashehannafii/simple_crud_CI3)
 
