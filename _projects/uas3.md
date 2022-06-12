@@ -12,4 +12,4 @@ Demo : [https://github.com/nashehannafii/uas_semester3/](https://github.com/nash
 
 ## Dashboard
 
-![Dashboard](/assets/projects/yamin/dashboard.png)
+<!-- ![Dashboard](/assets/projects/yamin/dashboard.png) -->

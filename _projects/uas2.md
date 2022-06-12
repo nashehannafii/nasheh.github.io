@@ -12,4 +12,4 @@ Demo : [https://github.com/nashehannafii/last_project_semester2/](https://github
 
 ## Dashboard
 
-![Dashboard](/assets/projects/yamin/dashboard.png)
+<!-- ![Dashboard](/assets/projects/yamin/dashboard.png) -->
