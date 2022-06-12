@@ -12,4 +12,4 @@ Demo : [https://github.com/nashehannafii/simple_crud_CI3](https://github.com/nas
 
 ## Dashboard
 
-![Dashboard](/assets/projects/yamin/dashboard.png)
+![Dashboard](/assets/projects/test/dashboard.PNG)
