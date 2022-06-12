@@ -1,10 +1,10 @@
 ---
-title: "Sistem Penunjang Keputusan (SPK) Menggunakan Metode Multifactor Evaluation Process (MFEP)"
+title: "Inventory Recommendation Determination System Using the Multifactor Evaluation Process (MFEP) Method - Decision Support System (DDS)"
 type: "Yii2"
 layout: "post"
 ---
 
-Sistem Penunjang Keputusan (SPK) Menggunakan Metode Multifactor Evaluation Process (MFEP), built with yii2framework
+Penentuan Rekomendasi Persediaan Barang Menggunakan Metode Multifactor Evaluation Process (MFEP) - Sistem Penunjang Keputusan (SPK) , built with yii2framework
 
 Github Link : [https://github.com/nashehannafii/spk](https://github.com/nashehannafii/spk)
 
