@@ -12,4 +12,4 @@ Demo : [https://github.com/nashehannafii/spk](https://github.com/nashehannafii/s
 
 ## Dashboard
 
-![Dashboard](/assets/projects/yamin/dashboard.png)
+![Dashboard](/assets/projects/spk/dashboard.PNG)
