@@ -1,7 +1,9 @@
 ---
-layout: 'post'
-title: 'Cara Menurunkan Versi Composer'
-date: 2022-07-11 08:56:00 +0700
+layout: post
+author: nashehannafii
+title: "Downgrade node version"
+tags:
+date: "2022-07-04"
 ---
 
 Saya menggunakan ubuntu linux.
