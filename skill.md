@@ -1,16 +1,13 @@
 ---
-layout: default
+layout: page
 title: Skill
 permalink: /skill/
 ---
 
-* Problem Solving
-* HTML, CSS
-* Bootstrap
-* Javascript(Basic)
-* PHP Framework
-* Yii2(Medium)
-* Laravel(Basic)
-* Codeigniter3(Basic)
-* Dart(Basic)
-* Linux
+1. Linux Scripting - intermediate
+2. API - basic
+3. React JS - basic
+4. PHP Framework (Yii2, Laravel, CI3) - intermediate
+4. JavaScript Framework (NextJs) - basic
+5. MySql - intermediate
+6. Problem Solving Everytime

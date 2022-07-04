@@ -4,4 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Saya Nasheh Annafii, pemrogram dan pengembang situs web.
+Nama saya **Nasheh Annafii**, <br> Saya belajar pemrograman sejak tahun 2019 hingga saat ini.
+
+## Riwayat Kemahasiswaan
+1. AsDos Introduction to Information Technology 2019-2020 I Ganjil
+2. AsDos Database 1 2021-2022 I Ganjil
+3. AsDos Human Computer Interaction 2021-2022 I Genap
+4. AsDos Digital Image Processing 2022 - 2023 I Ganjil
+5. AsDos Machine Learning 2022 - 2023 I Ganjil

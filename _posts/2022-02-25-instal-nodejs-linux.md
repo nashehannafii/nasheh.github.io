@@ -25,3 +25,6 @@ sudo apt-get install -y nodejs
 ```bash
 node -v && npm -v
 ```
+
+
+## Selamat Mencoba !!

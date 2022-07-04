@@ -60,4 +60,5 @@ Simpan dengan ctrl + x -> 'y' -> enter,
 
 kemudian buka `http://localhost/info.php` di browser kalian
 
+
 ## Selamat Mencoba !!
