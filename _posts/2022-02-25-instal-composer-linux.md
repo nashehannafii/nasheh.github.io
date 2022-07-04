@@ -1,30 +1,48 @@
 ---
 layout: 'post'
-title: 'Instal Composer Linux'
+title: 'Instal Composer Linux Ubuntu 22.04 LTS'
 date: 2022-02-25 13:00:00 +0700
 ---
 
-Saya menggunakan elementary os.
+Saya menggunakan Ubuntu 22.04 LTS.
 
 ## 1. Instal Curl
 
-```bash
-sudo apt update && sudo apt install wget php-cli php-zip unzip curl
-```
-
-## 2. Download Composer Menggunakan Curl
+Update
 
 ```bash
-curl -sS https://getcomposer.org/installer |php
+sudo apt update
 ```
-
-## 3. Pindah Composer Ke Sistem
+Install wget - php - zip - curl
 
 ```bash
-sudo mv composer.phar /usr/local/bin/composer
+sudo apt install wget php-cli php-zip unzip curl
 ```
 
-## 4. Tes
+
+## 2. Download Composer Menggunakan Curl dan Setting File Composer
+
+```bash
+cd ~
+curl -sS https://getcomposer.org/installer -o /tmp/composer-setup.php
+```
+
+```bash
+HASH=`curl -sS https://composer.github.io/installer.sig`
+```
+
+```bash
+php -r "if (hash_file('SHA384', '/tmp/composer-setup.php') === '$HASH') { echo 'Installer verified'; } else { echo 'Installer corrupt'; unlink('composer-setup.php'); } echo PHP_EOL;"
+```
+
+## 3. Install Composer
+
+```bash
+sudo php /tmp/composer-setup.php --install-dir=/usr/local/bin --filename=composer
+```
+
+
+## 4. Testing Composer
 
 ```bash
 composer
@@ -39,3 +57,5 @@ composer
                     /_/
 Composer version 2.2.6 2022-02-04 17:00:38
 ```
+
+## Selamat Mencoba !!
