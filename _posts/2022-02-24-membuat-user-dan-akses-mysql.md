@@ -4,7 +4,7 @@ title: 'Membuat User dan Hak Aksesnya MySQL'
 date: 2022-02-24 10:00:00 +0700
 ---
 
-Saya menggunakan ubuntu linux.
+Saya menggunakan ubuntu linux 22.04 LTS.
 
 ## 1. Masuk ke MySQL
 
@@ -15,34 +15,36 @@ sudo mysql
 ## 2. Buat User
 
 ```sql
-CREATE USER 'nama_user'@'lokasi_user' IDENTIFIED BY 'password_user';
+CREATE USER 'nasheh'@'localhost' IDENTIFIED BY 'password';
 ```
-
-Contoh
-
-```sql
-CREATE USER 'nashehannafii'@'localhost' IDENTIFIED BY 'nasheh';
-```
+Nb : 
 
 ## 3. Atur Hak Akses
 
-```sql
-GRANT hak_akses ON nama_database.nama_tabel TO 'nama_user'@'lokasi_user';
-```
-
-Contoh
 
 ```sql
-GRANT ALL ON *.* TO 'nashehannafii'@'localhost';
+GRANT ALL PRIVILEGES ON *.* TO 'nasheh'@'localhost' WITH GRANT OPTION;
 ```
 
 * `ALL` berarti memberikan semua hak akses, bisa diganti SELECT, INSERT, UPDATE, dan query lainnya.
 * `*` Berarti semua database dan semua tabel.
 
-## 4. Tes
+## 4. Terima Hak Akses
+
+```sql
+FLUSH PRIVILEGES;
+```
+
+
+## 5. Selesai
 
 ```bash
 sudo mysql -u nama_user -p
+```
 
+## Akun yang dibuat diatas: 
+username    : nasheh
+
+password    : password
 # Masukkan Password
 ```

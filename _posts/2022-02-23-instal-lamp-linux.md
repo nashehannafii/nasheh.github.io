@@ -4,7 +4,7 @@ title: 'Instal LAMP Linux'
 date: 2022-02-23 16:00:00 +0700
 ---
 
-Saya menggunakan ubuntu linux.
+Saya menggunakan ubuntu linux 22.04 LTS.
 
 ## 1. Update Repo
 
@@ -20,7 +20,7 @@ sudo apt install apache2
 
 ### Tes
 
-Buka `http://ip_mu` atau `http://localhost`
+Buka `http://localhost` di browser kalian
 
 ## 2. Instal MySQL
 
@@ -28,19 +28,12 @@ Buka `http://ip_mu` atau `http://localhost`
 sudo apt install mysql-server
 ```
 
-### Run MySQL Secure Instalation
-
-```bash
-sudo mysql_secure_installation
-```
-
-Ikuti langkah-langkahnya.
-
-### Tes
+## Buka MySql
 
 ```bash
 sudo mysql
 ```
+
 
 ## 3. Instal PHP
 
@@ -48,9 +41,9 @@ sudo mysql
 sudo apt install php libapache2-mod-php php-mysql
 ```
 
-### Tes
+### Cek info PHP
 
-Buat file `info.php`
+Buat file `info.php` dengan cara sebagai berikut:
 
 ```bash
 sudo nano /var/www/html/info.php
@@ -63,4 +56,8 @@ Isi dengan kode berikut.
 phpinfo();
 ```
 
-Simpan, kemudian buka `http://ip_mu/info.php` atau `http://localhost/info.php`
+Simpan dengan ctrl + x -> 'y' -> enter, 
+
+kemudian buka `http://localhost/info.php` di browser kalian
+
+## Selamat Mencoba !!

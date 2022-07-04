@@ -1,7 +1,7 @@
 ---
 layout: post
 author: nashehannafii
-title: "Downgrade node version"
+title: "Downgrade composer version"
 tags:
 date: "2022-07-04"
 ---
