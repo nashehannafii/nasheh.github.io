@@ -1,0 +1,39 @@
+---
+layout: default
+---
+
+<header class="header-section">
+    <h1 class="header-title">Project</h1>
+</header>
+<hr class="hr">
+<main>
+    {% for project in site.projects %}
+        {% capture this_type %}
+            {{ project.type }}
+        {% endcapture %}
+
+        {% capture next_type %}
+            {{ project.next.type }}
+        {% endcapture %}
+
+        {% if forloop.first %}
+            <section class="year-section">
+                <h2 class="year-title">{{ this_type }}</h2>
+        {% endif %}
+
+        <article class="post">
+            <h3><a class="link" href="{{ project.url }}">{{ project.title }}</a></h3>
+        </article>
+
+        {% if forloop.last %}
+            </section>
+        {% else %}
+            {% if this_type != next_type %}
+                </section>
+
+                <section class="year-section">
+                    <h2 class="year-title">{{ next_type }}</h2>
+            {% endif %}
+        {% endif %}
+    {% endfor %}
+</main>
